@@ -95,7 +95,7 @@
       background-color: rgba(241, 168, 11, 0.473);
       background-blend-mode: hard-light;
        */
-       background-image: url(main-bg.jpg) , linear-gradient(#e9b832b7 , #ddd4c010); 
+       background-image: url(images/main-bg.jpg) , linear-gradient(#e9b832b7 , #ddd4c010); 
        background-blend-mode: luminosity;
       min-height: 100vh;
     }
@@ -107,7 +107,7 @@
 
     /* News */
     #news{
-        background-image: url(news-bg.jpg);
+        background-image: url(images/news-bg.jpg);
         height: 270px;
         margin-bottom: 40px;
     }
